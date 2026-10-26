@@ -1,0 +1,9 @@
+{
+  "appId": "id.alin.fittracker",
+  "appName": "Alin Fit Tracker",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": false
+  }
+}

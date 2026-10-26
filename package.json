@@ -1,0 +1,17 @@
+{
+  "name": "alin-fit-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Alin Fit Tracker Android wrapper built with Capacitor",
+  "scripts": {
+    "build": "node -e \"console.log('Static web app: www/index.html')\"",
+    "android:sync": "cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.2.1",
+    "@capacitor/core": "^6.2.1"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.2.1"
+  }
+}
